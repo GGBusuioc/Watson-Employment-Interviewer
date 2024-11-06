@@ -15,5 +15,5 @@ By creating and embeding a chatbot into a cloud based web application using:
 ![alt text](https://i.ibb.co/4pKr3p3/Capture.png)
 
 ## Interview Flow
-![alt text](https://serving.photos.photobox.com/4069426019e301cf38fa48000eb8e5a54e84d5d3cd125d7d049c7b1485660f91e230ab07.jpg)
+![alt text](https://postimg.cc/SY7pk86t)
 
